@@ -1,0 +1,12 @@
+# .prettierignore
+node_modules/
+public/
+logs/
+
+.prettierignore
+.prettierrc
+jsconfig.json
+nodemon.json
+package.json
+package-lock.json
+README.md
